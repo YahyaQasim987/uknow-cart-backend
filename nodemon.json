@@ -1,0 +1,5 @@
+{
+  "watch": ["src", "scripts", "sql"],
+  "ignore": ["uploads/**", "private-uploads/**", "*.log"],
+  "ext": "js,mjs,cjs,json,sql"
+}
